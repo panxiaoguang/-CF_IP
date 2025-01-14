@@ -1,0 +1,5 @@
+payload:
+  - 'ssh.computerome.dk'
+  - 'transfer.computerome.dk'
+  - 'computerome.dk'
+  - 'ku.dk'
